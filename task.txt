@@ -1,0 +1,22 @@
+Date: 24-01-22
+
+2. Resume Data in JSON format.
+
+CODE:
+
+let myResume= {
+    name: "D M Durai Murugan",
+    about: "Looking for opportunities to incorporate my skills and training to help the company grow.",
+    education: {
+        10: 483,
+        12: 461,
+        college: 81
+    },
+    technicalSkills: ["HTML", "CSS", "Javascript", "Python", "Bootstrap"],
+    professionalSkills: ["Fast learner", "Time Management", "Team Player", "Creative spirit"],
+    contact: {
+        email: "havocdurai67@gmail.com",
+        linkedin: "www.linkedin.com/in/durai-murugan-dm",
+        place: "Chennai,Tamil Nadu, India",
+    }
+};
